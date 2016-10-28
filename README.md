@@ -1,4 +1,5 @@
 OpenNi installers : http://openni.ru/openni-sdk/openni-sdk-history-2/index.html
+(download OpenNI SDK v1.5.7.10)
 
 Boost libraries : http://www.boost.org/users/history/version_1_43_0.html
  1. Verander libs/python/build/Jamfile.v2 door die in de git
